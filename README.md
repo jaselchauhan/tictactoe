@@ -1,6 +1,6 @@
 #tictactoe
 
-### a classic game coded using JavaScript, CSS3 and HTML 5. 
+#### a classic game coded using JavaScript, CSS3 and HTML 5. 
 
 ![Alt text](img/tictactoe.png)
 
