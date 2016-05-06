@@ -1,4 +1,4 @@
-Alt-H1 tictactoe
+#tictactoe
 
 ### a classic game coded using JavaScript, CSS3 and HTML 5. 
 
